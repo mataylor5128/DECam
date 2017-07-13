@@ -1,0 +1,22 @@
+ALPHA_J2000              Right ascension of barycenter (J2000)                     [deg]
+DELTA_J2000              Declination of barycenter (J2000)                         [deg]
+XWIN_IMAGE               Windowed position estimate along x                        [pixel]
+YWIN_IMAGE               Windowed position estimate along y                        [pixel]
+ERRAWIN_IMAGE            RMS windowed pos error along major axis                   [pixel]
+ERRBWIN_IMAGE            RMS windowed pos error along minor axis                   [pixel]
+ERRTHETAWIN_IMAGE        Windowed error ellipse pos angle (CCW/x)                  [deg]
+ERRA_WORLD
+ERRB_WORLD
+ERRTHETA_WORLD
+X_WORLD
+Y_WORLD
+FLUX_RADIUS
+FLUX_AUTO                Flux within a Kron-like elliptical aperture               [count]
+FLUXERR_AUTO             RMS error for AUTO flux                                   [count]
+FLUX_MAX
+MAG_AUTO                 Kron-like elliptical aperture magnitude                   [mag]
+ELONGATION
+FLAGS                    Extraction flags
+AWIN_IMAGE
+BWIN_IMAGE
+FWHM_IMAGE               FWHM assuming a gaussian core                             [pixel]
